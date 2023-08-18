@@ -1,3 +1,8 @@
+//Simple Calculator: Create a Kotlin program that takes two numbers
+//and an operator (+, -, *, /) as input,
+//and then performs the corresponding operation and displays the result.
+
+
 package kotlinchallenge
 
 fun main(args: Array<String>) {
@@ -9,6 +14,8 @@ fun main(args: Array<String>) {
     println("Enter an operator (+, -, *, /): ")
 
     var result  = readLine()!!.toInt()
+
+
 
 
 

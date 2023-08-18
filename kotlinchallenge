@@ -1,13 +1,11 @@
  justpaste.it/6snzy
 
-
-
 1.Greeting Program: Write a Kotlin program that asks the user for their name
  and then prints a personalized greeting, like "Hello, [Name]!"
 
 2.Simple Calculator: Create a Kotlin program that takes two numbers
  and an operator (+, -, *, /) as input,
-  and then performs the corresponding operation and displays the result.
+ and then performs the corresponding operation and displays the result.
 
 3.Even or Odd Checker: Write a Kotlin function that takes an integer as input
  and determines whether it's even or odd,
